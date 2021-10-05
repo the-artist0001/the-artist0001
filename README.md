@@ -1,10 +1,14 @@
-Hey there! I am Kerem. I am a young developer who goes to high school.
+Hey there! I am Kerem. I am a young developer who is a junior high student.
 
 <b>・I know Python, JavaScript, HTML/CSS languages. I'm interested in them and trying to improve myself. By the time, I am trying to learn C++ and C.</b>
 
 <b>・I have a beginner level, Turkish website. You can click here: http://theartist.rf.gd</b>
 
 <b>・To collaborate with me or to reach me, you can mail "javascriptertheartist@gmail.com"</b>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=p0we&color=blueviolet"/>
+</div>
 
 <h3>Also You Can Contact By...</h3>
 <p align="left">
