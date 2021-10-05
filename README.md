@@ -7,7 +7,8 @@ Hey there! I am Kerem. I am a young developer who is a junior high student.
 <b>・To collaborate with me or to reach me, you can mail "javascriptertheartist@gmail.com"</b>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=p0we&color=blueviolet"/>
+   <a>My Profile Views:</a>
+   <br><img src="https://komarev.com/ghpvc/?username=p0we&color=blue"/>
 </div>
 
 <h3>Also You Can Contact By...</h3>
