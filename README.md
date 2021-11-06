@@ -1,10 +1,10 @@
 Hey there! I am Kerem. I am a young developer who is a junior high student.
 
-<b>・I know Python, JavaScript, HTML/CSS languages. I'm interested in them and trying to improve myself. By the time, I am trying to learn C++ and C.</b>
+<b>・I know Python, JavaScript and HTML/CSS programming languages. I'm interested in them and I'm trying to improve myself. By the time, I am trying to learn C++ and C.</b>
 
-<b>・I have a beginner level, Turkish website. You can click here: http://theartist.rf.gd</b>
+<b>・I have a Turkish website which is beginner level. You can click here: http://theartist.rf.gd</b>
 
-<b>・To collaborate with me or to reach me, you can mail "javascriptertheartist@gmail.com"</b>
+<b>・To collaborate with me or to reach me, you can mail javascriptertheartist@gmail.com</b>
 
 <div align="center">
    <a>My Profile Views:</a>
