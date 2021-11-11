@@ -8,6 +8,7 @@ Hey there! I am Kerem. I am a young developer who is a junior high student.
 
 <div align="center">
    <a>My Profile Views:</a>
+   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/820632932841684994)](https://discord.com/users/820632932841684994)
    <br><img src="https://komarev.com/ghpvc/?username=p0we&color=blue"/>
 </div>
 
